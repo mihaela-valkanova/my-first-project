@@ -24,3 +24,13 @@ This project includes an Excel analysis using pivot tables and charts.
 - Revenue grows month by month
 - March shows the highest sales
 
+## SQL Analysis
+This project includes SQL queries to analyze sales data.
+
+### Queries
+- Total revenue by product
+- Total revenue by month
+- Highest revenue record
+
+### Tools
+- SQLite (online)
