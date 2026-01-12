@@ -34,3 +34,17 @@ This project includes SQL queries to analyze sales data.
 
 ### Tools
 - SQLite (online)
+
+# Python Sales Analysis
+
+This is a simple Python project that analyzes sales data directly in Python.
+
+## Key insights
+- Product A generates higher revenue than Product B
+- Revenue increases each month
+- March shows the highest sales
+
+## Tools
+- Python
+- pandas
+- matplotlib
