@@ -48,3 +48,17 @@ This is a simple Python project that analyzes sales data directly in Python.
 - Python
 - pandas
 - matplotlib
+
+- # PowerBI Analysis
+
+  This is a simple PowerBI project that analyzes orders data directly in PowerBI.
+
+  ## Key insights
+  - Individual as a client type generates higher total amount than Company.
+  - Individual as a client type generates higher quantity than Company.
+  - City of Ruse generates the highest unit price among Burgas, Plovdiv, Sofia, Varna and Stara Zagora.
+  - City of Stara Zagora generates the lowest unit price among Ruse, Burgas, Plovdiv, Sofia and Varna.
+ 
+  - ## Tools
+  - Microsoft PowerBI
+  - Microsoft Excel 
