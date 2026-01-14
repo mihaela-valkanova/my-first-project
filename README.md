@@ -49,7 +49,7 @@ This is a simple Python project that analyzes sales data directly in Python.
 - pandas
 - matplotlib
 
-- # PowerBI Analysis
+ # PowerBI Analysis
 
   This is a simple PowerBI project that analyzes orders data directly in PowerBI.
 
