@@ -49,9 +49,9 @@ This is a simple Python project that analyzes sales data directly in Python.
 - pandas
 - matplotlib
 
- # PowerBI Analysis
+ # Power BI Analysis
 
-  This is a simple PowerBI project that analyzes orders data directly in PowerBI.
+  This is a simple Excel project that analyzes orders data directly in Power BI.
 
   ## Key insights
   - Individual as a client type generates higher total amount than Company.
