@@ -59,6 +59,6 @@ This is a simple Python project that analyzes sales data directly in Python.
   - City of Ruse generates the highest unit price among Burgas, Plovdiv, Sofia, Varna and Stara Zagora.
   - City of Stara Zagora generates the lowest unit price among Ruse, Burgas, Plovdiv, Sofia and Varna.
  
-  - ## Tools
+  ## Tools
   - Microsoft PowerBI
   - Microsoft Excel 
